@@ -8,6 +8,8 @@ Hello guys, In this project, I created a "Three Column Preview" using "React JS"
 
 1).Desktop Design:
 
+![desktop design](https://github.com/vishalyv252/three-column-preview/assets/105093020/cdeffcbd-f1b4-4e2a-b305-71cb1708ed14)
+
 2).Mobile Design:
 
 3).Activity State:
