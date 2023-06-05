@@ -15,3 +15,5 @@ Hello guys, In this project, I created a "Three Column Preview" using "React JS"
 ![mobile design](https://github.com/vishalyv252/three-column-preview/assets/105093020/1c03a236-4cac-45ec-b715-55573e4031a0)
 
 3).Activity State:
+
+![activity state](https://github.com/vishalyv252/three-column-preview/assets/105093020/0af5ae1e-9f77-4d00-bac6-6ea757e2b693)
